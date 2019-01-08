@@ -18,7 +18,7 @@
 
 使用时，如果搜索的论文在 `arxiv` 上，则进入 `arxiv` 的摘要页（abs 页），点击右键，选择`Redirect!`，就会打开新的标签页，并加载 PDF 文档。
 
-在`arxiv`的pdf页面，按`Rediret!`可以在本页面转到`cn.arxiv`的pdf页。
+在`arxiv`的pdf页面，按`Redirect!`可以在本页面转到`cn.arxiv`的pdf页。
 
 注意：有时`cn.arxiv`上面的LaTex并没有编译为pdf，此时需要稍等片刻（约10s），等待其转为pdf。
 
