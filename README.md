@@ -1,5 +1,5 @@
 <p align="center">
-<img width="120" src="http://imgur.com/Z2U8qrS.png" text-align="center">
+<img width="120" src="" text-align="center">
 </p>
 [English README](README-en.md)
 
@@ -17,10 +17,10 @@
 
 使用时，如果搜索的论文在 `arxiv` 上，则进入 `arxiv` 的摘要页（abs 页），点击右键，选择`cn.arxiv redirector`，就会打开新的标签页，并加载 PDF 文档。
 
-![New Tab](http://i.imgur.com/mgJTtWn.png)
+![New Tab]()
 
 ### 安装：
-[Chrome Webstore](https://goo.gl/qhytkd).
+[Chrome Webstore]().
 
 ### 联系：
 tianchunlin123@gmail.com
