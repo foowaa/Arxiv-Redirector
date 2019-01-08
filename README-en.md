@@ -22,7 +22,7 @@ When you are on `arxiv` pdf page, click `Redirect!`, the page will reload to `cn
 ![demonstration](./demonstration.png)
 
 ### Installation:
-[Chrome Webstore]()
+[Chrome Webstore](https://chrome.google.com/webstore/detail/arxiv-redirector/codmjekkjnbhlpocbacmhjlnillpagea)
 
 ### Contribution:
 tianchunlin123@gmail.com

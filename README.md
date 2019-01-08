@@ -4,7 +4,7 @@
 
 [English README](README-en.md)
 
-> 一个从 `arxiv` 的摘要页跳转到国内镜像`cn.arxiv` 的PDF 页的Chrome浏览器扩展。
+> 一个方便科研人员的从 `arxiv` 跳转到国内镜像`cn.arxiv`的PDF页的Chrome浏览器扩展。
 
 ### 为什么？
 1. `arxiv` 在中国大陆访问速度不快，尤其在加载 PDF 文档时，相当耗时。
@@ -25,7 +25,7 @@
 ![demonstration](./demonstration.png)
 
 ### 安装：
-[Chrome Webstore]()
+[Chrome Webstore](https://chrome.google.com/webstore/detail/arxiv-redirector/codmjekkjnbhlpocbacmhjlnillpagea)
 
 ### 联系：
 tianchunlin123@gmail.com
