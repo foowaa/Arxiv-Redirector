@@ -13,14 +13,14 @@
 3. arxiv 的国内镜像站`cn.arxiv`访问速度很快。
 
 ### 使用指南：
-`cn.arxiv redirector` 是一个集成在 Chrome 浏览器右键的扩展，使用非常方便。
+`arxiv redirector` 是一个集成在 Chrome 浏览器右键的扩展，使用非常方便。
 
-使用时，如果搜索的论文在 `arxiv` 上，则进入 `arxiv` 的摘要页（abs 页），点击右键，选择`cn.arxiv redirector`，就会打开新的标签页，并加载 PDF 文档。
+使用时，如果搜索的论文在 `arxiv` 上，则进入 `arxiv` 的摘要页（abs 页），点击右键，选择`arxiv redirector`，就会打开新的标签页，并加载 PDF 文档。
 
 ![New Tab]()
 
 ### 安装：
-[Chrome Webstore]().
+[Chrome Webstore]()
 
 ### 联系：
 tianchunlin123@gmail.com
