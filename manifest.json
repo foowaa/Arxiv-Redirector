@@ -12,10 +12,10 @@
     "contextMenus"
   ],
   "icons": {
-    "16": "assets/img/ico16.png",
-    "48": "assets/img/ico48.png",
-    "128": "assets/img/ico128.png"
+    "16": "assets/ico16.png",
+    "48": "assets/ico48.png",
+    "128": "assets/ico128.png"
   },
-  "homepage_url": "http://github.com/foowaa",
+  "homepage_url": "http://github.com/foowaa/Arxiv-Redirector",
   "commands": {}
 }

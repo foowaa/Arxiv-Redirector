@@ -1,5 +1,5 @@
 chrome.contextMenus.create({
-	title: "Arxiv Redirector",
+	title: "Redirect!",
 	onclick: main,
 	contexts: ["all"]
 });

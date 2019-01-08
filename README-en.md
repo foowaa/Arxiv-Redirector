@@ -12,12 +12,13 @@
 
 ### Introductions:
 
-`arxiv redirector` is a chrome extension intergrated in context menu, which is able to redirect from `https://arxiv.org` **abs**tract page to `http://cn.arxiv.org` **pdf** page.
+`Arxiv Redirector` is a chrome extension intergrated in context menu, which is able to redirect from `https://arxiv.org` **abs**tract page to `http://cn.arxiv.org` **pdf** page.
 
 `http://cn.arxiv.org` is the very fast mirror of arxiv in China.
 
-Therefore, you can search on ordinary search engine -> if the article is on arxiv, enter arxiv.org -> if you want to take a quick look at it or download, right click and select `arxiv redirector` -> enjoy it!
+Therefore, you can search on ordinary search engine -> if the article is on arxiv, enter arxiv.org -> if you want to take a quick look at it or download, right click and select `Redirect!` -> enjoy it!
 
+When you are on `arxiv` pdf page, click `Redirect!`, the page will reload to `cn.arxiv`.
 ![New Tab]()
 
 ### Installation:
