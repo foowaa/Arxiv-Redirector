@@ -1,5 +1,5 @@
 <p align="center">
-<img width="120" src="" text-align="center">
+<img width="120" src="./assets/ico128.png" text-align="center">
 </p>
 
 > Chrome Extension: Redirect from arxiv to cn.arxiv PDF which is convenient for China users.
@@ -19,7 +19,7 @@
 Therefore, you can search on ordinary search engine -> if the article is on arxiv, enter arxiv.org -> if you want to take a quick look at it or download, right click and select `Redirect!` -> enjoy it!
 
 When you are on `arxiv` pdf page, click `Redirect!`, the page will reload to `cn.arxiv`.
-![New Tab]()
+![demonstration](./demonstration.png)
 
 ### Installation:
 [Chrome Webstore]()

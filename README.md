@@ -1,6 +1,7 @@
 <p align="center">
-<img width="120" src="" text-align="center">
+<img width="120" src="./assets/ico128.png" text-align="center">
 </p>
+
 [English README](README-en.md)
 
 > 一个从 `arxiv` 的摘要页跳转到国内镜像`cn.arxiv` 的PDF 页的Chrome浏览器扩展。
@@ -21,7 +22,7 @@
 
 注意：有时`cn.arxiv`上面的LaTex并没有编译为pdf，此时需要稍等片刻（约10s），等待其转为pdf。
 
-![New Tab]()
+![demonstration](./demonstration.png)
 
 ### 安装：
 [Chrome Webstore]()
