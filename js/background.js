@@ -12,13 +12,9 @@ function main() {
 		}, function (tabs) {
 			if (tabs[0] && tabs[0].url) {
 				var url = tabs[0].url;
-				// disbale browser urls
-				var pattern_chrome = /^((chrome):\/\/)/;
+				// arxiv.org/abs AND arxiv.org/pdf pattern
 				var pattern_arxiv_abs = /((http|https):\/\/arxiv.org\/abs\/.+)/;
 				var pattern_arxiv_pdf = /((http|https):\/\/arxiv.org\/pdf\/.+)/;
-				if (pattern_chrome.test(url)) {
-					return;
-				}
 				// match arxiv.org/abs
 				if (pattern_arxiv_abs.test(url)) {
 					// replace links
