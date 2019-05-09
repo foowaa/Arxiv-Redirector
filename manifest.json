@@ -3,7 +3,7 @@
   "name": "Arxiv Redirector",
   "short_name": "ArxivRedirector",
   "description": "Redirect from arxiv to cn.arxiv PDF which is convenient for China users.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "background": {
     "scripts": ["js/background.js"]
   },
