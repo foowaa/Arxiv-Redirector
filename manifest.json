@@ -2,8 +2,8 @@
   "manifest_version": 2,
   "name": "Arxiv Redirector",
   "short_name": "ArxivRedirector",
-  "description": "Redirect from arxiv to cn.arxiv PDF which is convenient for China users.",
-  "version": "0.0.2",
+  "description": "Redirect from arxiv.org to China user friendly sites.",
+  "version": "0.0.3",
   "background": {
     "scripts": ["js/background.js"]
   },

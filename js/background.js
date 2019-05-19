@@ -29,7 +29,7 @@ function main() {
 				if (pattern_arxiv_pdf.test(url)) {
 					// replace links
 					var pattern_paper_id = /((https|http):\/\/arxiv.org\/)/;
-					var new_url = url.replace(pattern_paper_id, "http://xxx.itp.ac.cn");
+					var new_url = url.replace(pattern_paper_id, "http://xxx.itp.ac.cn/");
 					chrome.tabs.update({
 						url: new_url
 					});
